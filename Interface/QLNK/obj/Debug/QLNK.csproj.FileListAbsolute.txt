@@ -1,0 +1,107 @@
+G:\php\complete_version_CNPM-master\Do An CNPM\Interface\QLNK\bin\Debug\QLNK.exe.config
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\QLNK.exe.config
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\QLNK.exe
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\QLNK.pdb
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\BouncyCastle.Crypto.dll
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\Google.Protobuf.dll
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\K4os.Compression.LZ4.dll
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\K4os.Hash.xxHash.dll
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\MaterialSkin.dll
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\MySql.Data.dll
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\System.Buffers.dll
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\System.Memory.dll
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\System.Numerics.Vectors.dll
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\ZstdNet.dll
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\BouncyCastle.Crypto.xml
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\Google.Protobuf.pdb
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\Google.Protobuf.xml
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\K4os.Compression.LZ4.xml
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\K4os.Hash.xxHash.xml
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\MySql.Data.xml
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\System.Buffers.xml
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\System.Memory.xml
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\System.Numerics.Vectors.xml
+C:\Quản lý Hộ khẩu\Interface\QLNK\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.csproj.AssemblyReference.cache
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.csproj.SuggestedBindingRedirects.cache
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.DangNhap.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.HoKhau.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.NhanKhau.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.PhanQuyenTaiKhoan.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.SuaTaiKhoan.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.SuaTamTru.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.SuaTienAnTienSu.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.ThemTaiKhoan.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.ThemTamTru.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.ThemTienAnTienSu.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.TrangChu.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.SuaHoKhau.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.SuaKetHon.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.SuaChungTu.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.ThemHoKhau.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.ThemKetHon.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.ThemChungTu.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.ThemNhanKhau.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.SuaNhanKhau.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.Properties.Resources.resources
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.csproj.GenerateResource.cache
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.csproj.CoreCompileInputs.cache
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.csproj.CopyComplete
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.exe
+C:\Quản lý Hộ khẩu\Interface\QLNK\obj\Debug\QLNK.pdb
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\QLNK.exe.config
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\QLNK.exe
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\QLNK.pdb
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\BouncyCastle.Crypto.dll
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\Google.Protobuf.dll
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\K4os.Compression.LZ4.dll
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\K4os.Hash.xxHash.dll
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\MaterialSkin.dll
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\MySql.Data.dll
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\System.Buffers.dll
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\System.Memory.dll
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\System.Numerics.Vectors.dll
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\ZstdNet.dll
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\BouncyCastle.Crypto.xml
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\Google.Protobuf.pdb
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\Google.Protobuf.xml
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\K4os.Compression.LZ4.xml
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\K4os.Hash.xxHash.xml
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\MySql.Data.xml
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\System.Buffers.xml
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\System.Memory.xml
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\System.Numerics.Vectors.xml
+C:\QLHK\QLHK\Interface\QLNK\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.csproj.AssemblyReference.cache
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.csproj.SuggestedBindingRedirects.cache
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.DangNhap.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.HoKhau.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.NhanKhau.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.PhanQuyenTaiKhoan.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.SuaTaiKhoan.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.SuaTamTru.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.SuaTienAnTienSu.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.ThemTaiKhoan.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.ThemTamTru.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.ThemTienAnTienSu.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.TrangChu.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.SuaHoKhau.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.SuaKetHon.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.SuaChungTu.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.ThemHoKhau.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.ThemKetHon.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.ThemChungTu.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.ThemNhanKhau.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.SuaNhanKhau.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.Properties.Resources.resources
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.csproj.GenerateResource.cache
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.csproj.CoreCompileInputs.cache
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.csproj.CopyComplete
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.exe
+C:\QLHK\QLHK\Interface\QLNK\obj\Debug\QLNK.pdb
